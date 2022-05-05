@@ -86,5 +86,6 @@ const BestMan: React.FC = () => {
     </div>
   );
 };
+export {};
 
 export default BestMan;
