@@ -1,4 +1,4 @@
-#  https://bestman2-pj7n3w4p4-maverick-shreeve.vercel.app/
+#  https://bestman2.vercel.app/
 
 #Tech Stack
 Backend Stack, Language	Python, Framework	FastAPI, Hosting	AWS (Lambda + API Gateway)
